@@ -7,4 +7,5 @@ const button = document.getElementById('button');
 button.onclick = () => {
     console.log('clicked');
     text.innerText = 'Нажата кнопочка';
+
 };
